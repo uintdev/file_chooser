@@ -4,6 +4,6 @@
 
 - Add null-safety
 
-## 1.0.4
+## 0.1.6
 
-- Initial release
+- Last version without null-safety
